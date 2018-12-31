@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SamplesBiometricPromptKotlin</string>
+    <string name="authenticate">Authenticate</string>
+</resources>
